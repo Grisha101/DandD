@@ -27,7 +27,8 @@ const UIContainer = styled.div`
 
 const UITitle = styled.h2`
   width: 100%;
-  margin: 0.2rem 0 0.8rem;
+  margin: 0;
+  padding: 0.2rem 0.5rem 0.5rem;
   font-size: 1.5rem;
   border-bottom: 1px solid black;
 `;
